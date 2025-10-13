@@ -137,8 +137,6 @@ as part of the **VaultofCodes Web Development Internship – Task-3**
 
 ---
 
----
-
 ## ✅ How to Use It
 
 1. Go to your **Task-3 repository** on GitHub.  
