@@ -130,7 +130,7 @@ I love blending creativity with logic to build interactive, elegant digital expe
 
 ## 🏁 Credits
 
-Built with ❤️ by **P Vamshi Krishna**
+Built with ❤️ by **Pasupunoori Vamshi Krishna**
 as part of the **VaultofCodes Web Development Internship – Task-3**
 
 ⭐ If you like this project, please consider giving it a star on GitHub!
