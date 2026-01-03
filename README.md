@@ -112,7 +112,7 @@ The hover animations and shadows give every page a smooth, floating feel, while 
 
 ## 👨‍💻 About the Creator
 
-Hi, I’m **P Vamshi Krishna**,
+Hi, I’m **Pasupunoori Vamshi Krishna**,
 A passionate **AI & Web Developer** pursuing **B.Tech in Artificial Intelligence and Machine Learning at BVRIT Narsapur**.
 I love blending creativity with logic to build interactive, elegant digital experiences.
 
